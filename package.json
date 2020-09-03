@@ -1,0 +1,62 @@
+{
+  "name": "routemapDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@mapbox/polyline": "^1.1.0",
+    "@mauron85/react-native-background-geolocation": "^0.6.3",
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-community/masked-view": "^0.1.6",
+    "@react-native-community/netinfo": "^5.3.3",
+    "@react-native-maps/polyline-direction": "^1.0.0",
+    "axios": "^0.19.1",
+    "expo": "^36.0.2",
+    "geolib": "^3.3.1",
+    "haversine": "^1.1.1",
+    "lodash": "^4.17.15",
+    "mobilesutra_whatsapp-share-to-multiple": "^0.1.2",
+    "mobilesutra_whatsappshare": "^1.0.0",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-background-job": "^2.3.1",
+    "react-native-background-timer": "^2.1.1",
+    "react-native-disable-battery-optimizations-android": "^1.0.7",
+    "react-native-firebase": "^5.6.0",
+    "react-native-fs": "^2.16.6",
+    "react-native-geolocation-service": "^3.1.0",
+    "react-native-gesture-handler": "^1.7.0",
+    "react-native-maps": "^0.26.1",
+    "react-native-maps-directions": "^1.8.0",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-reanimated": "^1.10.1",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-safe-area-context": "^0.6.2",
+    "react-native-screens": "^2.9.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^2.0.15",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "s-haversine": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/runtime": "^7.7.7",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.8.0",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.57.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
