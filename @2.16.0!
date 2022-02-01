@@ -1,0 +1,8 @@
++ react-native-fs@2.16.6
+updated 1 package and audited 1391 packages in 14.288s
+
+52 packages are looking for funding
+  run `npm fund` for details
+
+found 6 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
